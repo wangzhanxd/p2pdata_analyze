@@ -1,5 +1,5 @@
 # p2pdata_analyze
-分析北京互联网金融协会公布的逾期数据
+分析北京互联网金融协会公布的12万条逾期数据
 
 get_data_p2p_data.ipython 文件是爬虫代码
 
